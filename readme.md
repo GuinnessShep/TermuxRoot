@@ -10,7 +10,7 @@ Install it yourself, I will not be responsible for any damage that may happen to
 ## Installation
 Enter the shell command below in Termux to install.
 ```bash
-curl -s -L https://raw.githubusercontent.com/treviasxk/UbuntuTermuxRoot/master/install.sh -o install && bash install
+curl -s -L https://raw.githubusercontent.com/GuinnessShep/TermuxRoot/main/Install.sh -o install && bash install
 ```
 ## Uninstallation
 First stop all services and exit Ubuntu with the `exit` command, then close Termux, then enter the shell command below in Termux to be able to uninstall. If you can't, restart your smartphone and start the code again.
